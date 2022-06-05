@@ -17,7 +17,11 @@ d = "L'addition de 10 + 5 est égal à " + 10 + 5
 """réponse = """
 
 a = "J'ai une classe de " + str(30) + " élèves"
+'''ici in va convertir en chaine de caretere str avec les autre chaines de caractereres '''
 b = str(10) + " + " + "5" + " est égal à " + str(15)
+'''Pareil que ci dessus'''
 c = 10 +int("5")
+'''La je convertie en nombre'''
 d = "L'addition de 10 + 5 est égal à " + str(10 + 5)
+'''La je converti en chaine de caractere'''
 
